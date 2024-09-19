@@ -1,6 +1,5 @@
 package com.infnet.ddd_tp3.command;
 
-
 import com.infnet.ddd_tp3.events.PedidoCriadoEvent;
 
 public class CriarPedidoCommand extends BaseCommand<String> {

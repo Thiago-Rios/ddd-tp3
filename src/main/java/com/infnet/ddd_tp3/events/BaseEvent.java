@@ -3,7 +3,6 @@ package com.infnet.ddd_tp3.events;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
-
 public abstract class BaseEvent<T> {
 
     public T eventData;
